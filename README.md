@@ -1,5 +1,9 @@
 # NASA-Nearest-Earth-Objects-1910-2024-globalai_ML_project-
+
 NASA | Nearest Earth Objects (1910-2024) data set Supervised and Unsupervised projects.
+-
+Kaggle Linkleri
+-
 Kaggle link:https://www.kaggle.com/work/collections/14592007
 
 Gözetimli öğrenme (supervised) için neden Lojistik Regrasyon seçildi?
