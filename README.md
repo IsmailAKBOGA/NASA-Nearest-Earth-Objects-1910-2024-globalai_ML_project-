@@ -23,3 +23,5 @@ KMeans algoritması, gözetimsiz öğrenme için kullanılan bir kümeleme algor
  İnsan Denetimi Olmadan Keşif:
   Veride gizli yapıları ortaya çıkarmak için uygundur. Örneğin, asteroitlerin tehlike seviyesine dair herhangi bir etiketi kullanmadan, belirli gruplar ve desenler keşfedilebilir. Bu da, araştırmacıların belirli özelliklere sahip olan asteroit gruplarını daha iyi anlamasına yardımcı olabilir.
 
+![supervised_result](https://github.com/user-attachments/assets/ec0485ce-225f-4db2-81a3-1fc9b2bab1af)
+![unsupervised_result](https://github.com/user-attachments/assets/cdc4a748-8854-4147-bd56-5db4ee86cf2a)
